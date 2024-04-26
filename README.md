@@ -1,5 +1,4 @@
 ### INTRODUCTION
-
 As an agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table.
 
 With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
