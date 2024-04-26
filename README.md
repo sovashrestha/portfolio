@@ -2,6 +2,7 @@
 
 ### PROJECTS
 ![Computer Vision MVP] (pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf)
+
 ### PROFESSIONAL EXPRERIENCE
 ## Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)
 - Launched Gocator computer vision
