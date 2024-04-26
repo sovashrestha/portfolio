@@ -1,12 +1,10 @@
-# Manager Product and Project
-
-# PRODUCT PROJECTS
+### PRODUCT PROJECTS
 1. Gocator Computer Vision 
   [Click to view](https://drive.google.com/file/d/1hqkhvmJZ54XRwLdx644wcggNLTzwG67r/view?usp=sharing)
   
 <!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
 
-# PROFESSIONAL EXPRERIENCE
+### PROFESSIONAL EXPRERIENCE
 Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)
 - Launched Gocator computer vision-MVP
 - Cognex camera vision-MVP
@@ -28,13 +26,13 @@ Creighton University, Product Project Manager, Omaha, NE (May 2019 - Nov 2020)
 - User satisfaction scores soared by 25%
 - Launched Tableau SaaS solution
 
-# VOLUNTEER EXPERIENCE
+### VOLUNTEER EXPERIENCE
 Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (Jan 2012- Dec 2014)
 
-# EDUCATION
+### EDUCATION
 CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024)
 SAINT CLOUD STATE UNIVERSITY, Bachelor of Science (B.S) in Information Systems, Saint Cloud, MN (2019)
 
-# TECHNICAL SKILLS
+### TECHNICAL SKILLS
 JIRA, Clarity, Figma, Mural, Microsoft Suite, SQL, PowerBI, Tableau, C#, JavaScript, GCP, API
 
