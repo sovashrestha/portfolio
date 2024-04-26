@@ -1,7 +1,7 @@
-### Manager Product and Project
+# Manager Product and Project
 
-## PRODUCT PROJECTS
-# 1. Gocator Computer Vision 
+# PRODUCT PROJECTS
+### 1. Gocator Computer Vision 
   [Click to view](https://drive.google.com/file/d/1hqkhvmJZ54XRwLdx644wcggNLTzwG67r/view?usp=sharing)
   
 <!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
