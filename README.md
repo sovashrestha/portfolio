@@ -1,3 +1,9 @@
+### INTRODUCTION
+
+As an agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table.
+
+With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
+
 ### PRODUCT PROJECTS
 1. Gocator Computer Vision 
   [Click to view](https://drive.google.com/file/d/1hqkhvmJZ54XRwLdx644wcggNLTzwG67r/view?usp=sharing)
@@ -7,7 +13,7 @@
 ### PROFESSIONAL EXPRERIENCE
 Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)
 - Launched Gocator computer vision-MVP
-- Cognex camera vision-MVP
+- Launced Cognex camera vision-MVP
 - Awarded Lean Six Sigma Green Belt Certificate
   
 Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022)
