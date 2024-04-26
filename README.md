@@ -1,7 +1,8 @@
 ### Manager Product and Project
 
 ### PROJECTS
-![Computer Vision MVP] (pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf)
+
+<a href="pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf" class="image fit"></a>
 
 ### PROFESSIONAL EXPRERIENCE
 ## Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)
