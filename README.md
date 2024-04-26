@@ -2,15 +2,15 @@
 
 ### PROJECTS
 
-# Gocator MVP
-  [Gocator MVP](https://drive.google.com/file/d/1hqkhvmJZ54XRwLdx644wcggNLTzwG67r/view?usp=sharing)
+# 1. Gocator Computer Vision
+  [MVP](https://drive.google.com/file/d/1hqkhvmJZ54XRwLdx644wcggNLTzwG67r/view?usp=sharing)
   
 <!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
 
 ### PROFESSIONAL EXPRERIENCE
 ## Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)
-- Launched Gocator computer vision
-- Cognex camera vision (MVPs)
+- Launched Gocator computer vision-MVP
+- Cognex camera vision-MVP
 - Awarded Lean Six Sigma Green Belt Certificate
   
 ## Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022)
