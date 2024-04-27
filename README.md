@@ -11,8 +11,8 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 
 ### PROFESSIONAL EXPRERIENCE
 Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)
-- Launched Gocator computer vision-MVP
-- Launced Cognex camera vision-MVP
+- Launched Gocator computer vision-MVP; achieved 98.9% or more defect-free rate and saving of $1M
+- Launced Cognex camera vision-MVP; optimized efficiency with compound annual rate of return of 31.5%
 - Awarded Lean Six Sigma Green Belt Certificate
   
 Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022)
