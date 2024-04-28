@@ -21,3 +21,9 @@ description: Manager Product and Project @TysonFoods, Inc.
 <a class="libutton" href="www.linkedin.com/in/shikharstha">LinkedIn</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+navigation:
+-{file: projects.html, icon: address-card}
+
+plugins:
+- jeklynn-feed
