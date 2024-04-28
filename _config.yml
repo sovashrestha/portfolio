@@ -4,4 +4,9 @@ description: Manager Product and Project @TysonFoods, Inc.
 #show_downloads: true
 theme: jekyll-theme-minimal
 
+#Menu
+navigation:
+ - {title: "Launched Products", file: "/projects.html"}
+
+
 
