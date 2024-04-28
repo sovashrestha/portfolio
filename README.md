@@ -1,4 +1,5 @@
-# INTRODUCTION
+<h1>Hi, I'm Shikhar! <br/>, <a href="www.linkedin.com/in/shikharstha">Product Management Professional</a>, <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137295985310924800">Notes on building agile products and team </a></h1>
+
 As an agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table.
 
 With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
