@@ -12,25 +12,9 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 
 # PROFESSIONAL EXPRERIENCE
 ### *Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)*
-- Launched Gocator computer vision-MVP; achieved 98.9% or more defect-free rate and saving of $1M
-- Launced Cognex camera vision-MVP; optimized efficiency with compound annual rate of return of 31.5%
-- Awarded Lean Six Sigma Green Belt Certificate
-  
 ### *Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022)*
-- Attained 30% increase in team velocity over 6 months
-- Maintained 95% on time delivery rate
-- Reduced features time-to-market by 20%
-- Attained 90% team attendance rate for scrum events
-- Awarded SAFe-Scrum Professional Certificate
-  
 ### *Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (Dec 2020 - Dec 2021)*
-- Launched new Software as a Service (SaaS) features
-- Attained 100% team attendance rate for scrum events
-  
 ### *Creighton University, Product Project Manager, Omaha, NE (May 2019 - Nov 2020)*
-- Revamped 100+ web pages and mobile apps
-- User satisfaction scores soared by 25%
-- Launched Tableau SaaS solution
 
 # VOLUNTEER EXPERIENCE
 Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (Jan 2012- Dec 2014)
