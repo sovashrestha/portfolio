@@ -12,7 +12,7 @@ Manually, calipers are used to measure the thickness of the chicken filet. Examp
 **Objective** <br />
 Based on the users pain points, I led the product discovery phase. At first we wanted to understand the Baseline Performance, so in order to do so, the team frequently visited the production plant and interviewed multiple stakeholders to gather requirements, data and feedback. When we analyzed the initial-baseline data, we came up the following result:
 
-![Baseline Performance](assets/Baseline Performance.png)
+![Baseline Performance](assets/BaselinePerformance.png)
 
 Next, we also needed to validate product hypothesis. 
 
