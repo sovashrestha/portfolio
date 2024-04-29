@@ -6,7 +6,9 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 
 # PRODUCT PROJECTS
 1. Gocator Computer Vision [Click to view](https://drive.google.com/file/d/1hqkhvmJZ54XRwLdx644wcggNLTzwG67r/view?usp=share_link)
-2. Cognex Camera Vision [Click to view](https://drive.google.com/file/d/1BMPDFPWd79NUe9lPwllVGYcPnvNWbfGt/view?usp=share_link)
+2. GCV [Computer Vision Product Case](project1.md)
+  
+3. Cognex Camera Vision [Click to view](https://drive.google.com/file/d/1BMPDFPWd79NUe9lPwllVGYcPnvNWbfGt/view?usp=share_link)
   
 <!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
 
