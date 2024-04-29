@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
  #- {title: "Launched Products", file: "/projects.html"}
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages: []
+header_pages:
    - projects.html
    - README.md
 #   - archives.html
