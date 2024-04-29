@@ -4,8 +4,8 @@ As an people-first agile product leader, I excel in driving product development 
 
 With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
 
-# CHECK OUT 
-1. GCV [Computer Vision Product Case](project1.md)
+# CHECK OUT PRODUCT CASES
+1. [Gocator Computer Vision](GocatorProductCase.md)
 2. Cognex Camera Vision [Click to view](https://drive.google.com/file/d/1BMPDFPWd79NUe9lPwllVGYcPnvNWbfGt/view?usp=share_link)
   
 <!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
