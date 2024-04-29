@@ -5,11 +5,28 @@ description: Manager Product and Project @TysonFoods, Inc.
 theme: jekyll-theme-minimal
 
 #Menu
-navigation:
- - {title: "Launched Products", file: "/projects.html"}
+#navigation:
+ #- {title: "Launched Products", file: "/projects.html"}
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+   - index.html
+   - README.md
+#   - archives.html
+#   - categories.html
+#   - tags.html
+#   - about.md
+
 
 #Social media
 linkedin : www.linkedin.com/in/shikharstha
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 
 
 
