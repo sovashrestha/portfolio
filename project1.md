@@ -11,7 +11,6 @@ Manually, calipers are used to measure the thickness of the chicken filet. Examp
 
 **Objective** <br />
 Based on the users pain points, I led the product discovery phase. At first we wanted to understand the Baseline Performance, so in order to do so, the team frequently visited the production plant and interviewed multiple stakeholders to gather requirements, data and feedback. When we analyzed the initial-baseline data, we came up the following result:
-
 ![Baseline Histogram](assets/BaselineHistogram.png)
 ![Baseline Performance](assets/BaselinePerformance.png)
 
@@ -19,7 +18,6 @@ Next, we also needed to validate product hypothesis.
 
 # Phase 2 - User & Data Research
 During the user interview, we found out user experience could be enhanced as team members were manually logging in measurements data in excel sheets, a very tedious tasks for team members. <br /> We also conducted Hypothesis Testing Analysis using baseline data to determine whether the sample mean measurement is significantly greater than 12 inch (thickness). For this, we used t-Test. 
-
 ![HTA](assets/HypothesisTestingAnalysis.png)
 ![Ttest](assets/T-test.png)
 
@@ -40,7 +38,7 @@ Replace the need for manual checks with an automated approach that will show mea
 # Phase 4 - Prototypes & Wireframes
 During the development phase used agile prototyping to make quick iterations and gather early user feedbacks. 
 
-PROTOTYPING APPROACH:
+**PROTOTYPING APPROACH:**
 * Create various prototypes that addresses the identified pain points by experimenting with product solution
 * Do in person testings to gather quantitative and qualitative data
 * Analyze gathered data to iterate 
@@ -50,10 +48,37 @@ PROTOTYPING APPROACH:
 
 # Phase 5 - MVP
 After the brainstorming sessions, iterative prototypes, and user feedbacks, I led the team to present the findings (Cost/Benefits) to senior leadership and key stakeholders to move forward with the MVP. I then used MoSCoW method to prioritize key features to include in our MVP given the budget, resource, and time constraints. Once we finalized the product requirements we got ready for the development. 
+![PLC](assets/ProductProjectLifeCycle.png)
+![Gocator](assets/GocatorEmulatorPrototype.png)
+![Dashboard](assets/GocatorDashboard.png)
 
-# Phase 5 - MVP
-After the brainstorming sessions, iterative prototypes, and user feedbacks, I led the team to present the findings (Cost/Benefits) to senior leadership and key stakeholders to move forward with the MVP. I then used MoSCoW method to prioritize key features to include in our MVP given the budget, resource, and time constraints. Once we finalized the product requirements we got ready for the development. 
-![Dashboard](assets/ProductProjectLifeCycle.png)
+# Phase 6 - Product Launch, Growth Opportunities, & Tracking Metrics
+**PRODUCT LAUNCH PLANNING**
+I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
+The following key performance metrics were monitored on an ongoing basis: <br />
+* Data Collection:  Plant Supervisor, PlantView Application, Real-time basis, and Automated
+* Performance Review: Plant Manager, PlantView Application, Weekly, and Use Report
+
+***Process Monitoring***
+* Camera has unobstructed view
+* Camera wirings must not interfere with daily processes
+![ResponsePlan](assets/Responseplan.png)
+
+**GROWTH OPPORTUNITIES**
+![GO](assets/GrowthOpportunities.png)
+
+**METRICS**
+![GCM](assets/GocatorCurrentMetrics.png)
+
+# Retrospective
+Post-launch monitoring and analysis are key for continuous learning and analyze if the launch objectives are being met. Here are some points from lessons learned:
+* The development took longer than estimated due to delay in logistics
+* Team were not aware of recalibration of Gocator until late in the project
+
+
+
+
+
 
 
 
