@@ -1,7 +1,7 @@
 # Gocator Computer Vision
 
-**My role**: PRODUCT PROJECT MANAGER <br /> 
-**Skills**: Agile methodologies, Stakeholder Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption <br /> 
+**My role**: PRODUCT PROJECT MANAGER \
+**Skills**: Agile methodologies, Stakeholder Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
 **Tools Used**: Clarity for Project & Resource Management, JIRA for Product roadmapping, Feature prioritization, & Requirements/User stories creation, Mural
 
 # Phase 1 - Problem Definition
