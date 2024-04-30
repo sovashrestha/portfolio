@@ -4,7 +4,7 @@
 **Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Agile Training, Presentation, Requirements Gathering, Features/Stories Creation, Prioritization, User testing, Product launch, User Adoption, Product Demo\
 **Tools Used**: JIRA, Mural, Excel
 
-## Problem Definition - Voice of the Customer (VOC)
+## Problem Definition
 Fresh Meats - IT was transitioning from Waterfall to Agile framework and needed agile leader to lead the development efforts fostering continous improvements and product development process that would help teams do their best work. 
 
 ## Phase 1 - Introduction
