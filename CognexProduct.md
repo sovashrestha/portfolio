@@ -2,7 +2,7 @@
 
 **My role**: PRODUCT PROJECT MANAGER \
 **Skills**: Agile methodologies, Stakeholder Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
-**Tools Used**: Clarity for Project & Resource Management, JIRA for Product roadmapping, Feature prioritization, & Requirements/User stories creation, Mural
+**Tools Used**: Clarity, JIRA, Mural, Excel
 
 # Problem Definition - Voice of the Customer (VOC)
 ![Prototype](assets/Prototype.png)
