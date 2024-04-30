@@ -11,16 +11,16 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 <!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
 
 # PROFESSIONAL EXPRERIENCE
-**Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)**
-**Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022)**
-**Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (Dec 2020 - Dec 2021**
-**Creighton University, Product Project Manager, Omaha, NE (May 2019 - Nov 2020)**
+**Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)** <br />
+**Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022)** <br />
+**Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (Dec 2020 - Dec 2021** <br />
+**Creighton University, Product Project Manager, Omaha, NE (May 2019 - Nov 2020)** <br />
 
 # VOLUNTEER EXPERIENCE
 **Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (Jan 2012- Dec 2014)**
 
 # EDUCATION
-**CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024)**
+**CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024)** <br />
 **SAINT CLOUD STATE UNIVERSITY, Bachelor of Science (B.S) in Information Systems, Saint Cloud, MN (2019)**
 
 # TECHNICAL SKILLS
