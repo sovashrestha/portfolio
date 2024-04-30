@@ -4,11 +4,11 @@ As a people-first agile product leader, I excel in driving product development a
 
 With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
 
-# CHECK OUT PRODUCT CASES
-1. [Gocator Computer Vision](GocatorProductCase.md?timestamp=123456)
-2. Cognex Camera Vision [Click to view](https://drive.google.com/file/d/1BMPDFPWd79NUe9lPwllVGYcPnvNWbfGt/view?usp=share_link)
-  
-<!---<object data="{{pdfviewer/Gocator Computer Vision MVP POC - Shikhar Shrestha.pdf}}" width="1000" height="1000" type='application/pdf'></object>-->
+# Checkout my product projects that I am currently working on
+1. [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](GocatorProductCase.md?timestamp=123456)
+
+# Check out previous projects
+1. [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProductCase.md?timestamp=123456)
 
 # PROFESSIONAL EXPRERIENCE
 **Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)** <br />
