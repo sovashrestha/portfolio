@@ -45,9 +45,11 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 * Camera wirings must not interfere with daily processes
 
 **Business User Adoption Survey**
-![Wireframes](assets/CognexWireframes.png)
+![BusinessAdoption](assets/BusinessAdoption1.png)
+![BusinessAdpption](assets/BusinessAdoption2.png)
 
-**METRICS** -TBD
+**METRICS**
+* Optimized efficiency with an IRR of 31.5%
 
 
 
