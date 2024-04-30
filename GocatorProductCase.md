@@ -52,8 +52,8 @@ After the brainstorming sessions, iterative prototypes, and user feedbacks, I le
 ![Gocator](assets/GocatorEmulatorPrototype.png)
 ![Dashboard](assets/GocatorDashboard.png)
 
-# Phase 6 - Product Launch, Growth Opportunities, & Tracking Metrics
-**PRODUCT LAUNCH PLANNING**
+# Phase 6 - Product Launch, Product Growth, & Tracking Metrics
+**Launch Planning** <br />
 I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
 The following key performance metrics were monitored on an ongoing basis: <br />
 * Data Collection:  Plant Supervisor, PlantView Application, Real-time basis, and Automated
@@ -64,10 +64,10 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 * Camera wirings must not interfere with daily processes
 ![ResponsePlan](assets/Responseplan.png)
 
-**GROWTH OPPORTUNITIES**
+**Product Growth**
 ![GO](assets/GrowthOpportunities.png)
 
-**METRICS**
+**Metrics**
 ![GCM](assets/GocatorCurrentMetrics.png)
 
 - Achieved 98.9% or more defect-free rate with potential saving of more than $1 million
