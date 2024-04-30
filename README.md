@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shikhar!</h1> <br/> 
+<h1>Hi, I'm Shikhar!</h1>
 <h3><a href="https://www.linkedin.com/in/shikharstha/">Product & Project Management Professional</a></h3>
 <h3><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137295985310924800">Notes on building agile products and team </a></h3>
 
