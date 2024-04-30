@@ -1,5 +1,5 @@
 <h1>Hi, I'm Shikhar!</h1> <br/> 
-<h3><a href="https://www.linkedin.com/in/shikharstha/">Product & Project Management Professional</a></h3> <br />
+<h3><a href="https://www.linkedin.com/in/shikharstha/">Product & Project Management Professional</a></h3>
 <h3><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137295985310924800">Notes on building agile products and team </a></h3>
 
 As a people-first agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table. I believe in fostering continous improvements and product development processses that help teams do best work. 
