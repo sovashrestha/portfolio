@@ -9,7 +9,7 @@ Today's process of taking sample thickness measurement is inconsistent and fraug
 
 Manually, calipers are used to measure the thickness of the chicken filet. Example of a target thickness can range from 9-11mm. There is a high degree of variability that comes with measuring the filet. It is possible to end up with 10 different measurements taken by 10 different people. 
 
-**Objective** <br />
+#### Objective <br />
 Based on the users pain points, I led the product discovery phase. At first we wanted to understand the Baseline Performance, so in order to do so, the team frequently visited the production plant and interviewed multiple stakeholders to gather requirements, data and feedback. When we analyzed the initial-baseline data, we came up the following result:
 ![Baseline Histogram](assets/BaselineHistogram.png)
 ![Baseline Performance](assets/BaselinePerformance.png)
@@ -32,7 +32,7 @@ We used Fishbone Diagram and 5 Whys 1 How technique to identify root-cause.
 
 After this, we identified product solutions. 
 
-**IDEA** <br />
+#### IDEA <br />
 Replace the need for manual checks with an automated approach that will show measurements in real time.<br /> We intend to install a Gocator 3D Camera. 
 
 # Phase 4 - Prototypes & Wireframes
