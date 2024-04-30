@@ -36,8 +36,8 @@ changing technical landscape.
 ![Wireframes](assets/CognexWireframes.png)
 
 # Product Launch & Tracking Metrics
-**Product Launch PLanning**
-I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
+**LAUNCH PLANNING**
+I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, adoption and risk mititation strategy. 
 
 The following key performance metrics were monitored on an ongoing basis: <br />
 * Data/Picture Collection:  Plant Supervisor, Warehouse Management System, Real-time basis, and Automated
@@ -47,7 +47,7 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 * Camera has unobstructed view
 * Camera wirings must not interfere with daily processes
 
-**Business User Adoption Survey** <br />
+**USER ADOPTION SURVEY** <br />
 ![BusinessAdoption](assets/BusinessAdoption1.png)
 ![BusinessAdpption](assets/BusinessAdoption2.png)
 
