@@ -1,7 +1,7 @@
 # Inventory Count Cognex Camera Vision
 
 **My role**: PRODUCT PROJECT MANAGER \
-**Skills**: Agile methodologies, Stakeholder Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
+**Skills**: Agile methodologies, Stakeholder Management, Resource Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
 **Tools Used**: Clarity, JIRA, Mural, Excel
 
 # Problem Definition - Voice of the Customer (VOC)
@@ -45,7 +45,7 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 * Camera wirings must not interfere with daily processes
 
 **Business User Adoption Survey**
-
+![Wireframes](assets/CognexWireframes.png)
 
 **METRICS** -TBD
 
