@@ -11,6 +11,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 
 ## Check out previous projects
 * [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProductCase.md)
+* [Agile Data Analytics & UX Products at Tyson Foods](ScrumMaster.md)
 
 ## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present) <br />
