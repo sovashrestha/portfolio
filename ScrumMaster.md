@@ -17,8 +17,9 @@ I facilitated Program Increment (PI) planning sessions and all scrum events i.e.
 ![TrainingDeck](assets/AboutScrum.png)
 ![TrainingDeck](assets/AgileManifesto.png)
 
-#### PI PLANNING & Report EXAMPLE
+#### PI PLANNING & REPORT EXAMPLES
 ![PI Planning](assets/PITeamBreakOut.png)
+
 ![PI Status Report](assets/PIStatusReport.png)
 
 ## Phase 3 - Results
