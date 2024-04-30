@@ -1,8 +1,8 @@
 # Gocator Computer Vision
 
 **My role**: PRODUCT PROJECT MANAGER \
-**Skills**: Agile methodologies, Stakeholder Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
-**Tools Used**: Clarity for Project & Resource Management, JIRA for Product roadmapping, Feature prioritization, & Requirements/User stories creation, Mural
+**Skills**: Agile methodologies, Stakeholder Management, Resource Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
+**Tools Used**: Clarity, JIRA, Mural, Notion
 
 # Phase 1 - Problem Definition
 Today's process of taking sample thickness measurement is inconsistent and fraught with errors. The data from the inconsistent measurements every hour are sued to adjust the meat thickness press which leads to errors. Sometimes machine adjustment are not needed and business ends up with customer complaints as well as worst case scenario - product recall, since the meats are too thick which leads to under cooked or the meats are too thin which leads to over cooked, given the time and temperature. 
