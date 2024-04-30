@@ -47,7 +47,7 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 * Camera has unobstructed view
 * Camera wirings must not interfere with daily processes
 
-**Business User Adoption Survey**
+**Business User Adoption Survey** <br />
 ![BusinessAdoption](assets/BusinessAdoption1.png)
 ![BusinessAdpption](assets/BusinessAdoption2.png)
 
