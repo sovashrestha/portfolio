@@ -1,8 +1,8 @@
 # Software-as-a-Service (SaaS) Product
  
 **My role**: .NET Software Developer & Scrum Master\ 
-**Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Agile Training, Presentation, Requirements Gathering, Features/Stories Creation, Prioritization, User testing, Product launch, User Adoption, Product Demo\
-**Tools Used**: JIRA, Mural, Excel
+**Skills**: Agile Methodologies, Stakeholder Management, Demo Presentation, Requirements, Stories creation, Prioritization, User testing\
+**Tools Used**: .NET, MS SQL, Telerik packages, JIRA, Excel
  
 ## Web Reporting Product
 Designed and implemented drill-down, paging, and dashboard access control requirements for real-time reports. Users were able to drill down for both grids and graph reports on the Dashboard. 
