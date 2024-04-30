@@ -6,21 +6,21 @@ As a people-first agile product leader, I excel in driving product development a
 
 With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
 
-## Checkout my product projects that I am currently working on
+## What I am currently working on
 * [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexProduct.md)
 
-## Check out previous projects
+## Check out my previous product projects
 * [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProductCase.md)
 * [Agile Data Analytics & UX Products at Tyson Foods](ScrumMaster.md)
 
 ## PROFESSIONAL EXPRERIENCE
-##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present) <br />
-##### Tyson Foods Inc., Scrum Master, Springdale, AR (Dec 2021 - Dec 2022) <br />
-##### Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (Dec 2020 - Dec 2021 <br />
-##### Creighton University, Product Project Manager, Omaha, NE (May 2019 - Nov 2020) <br />
+##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
+##### Tyson Foods Inc., Scrum Master, Springdale, AR (2021-2022) <br />
+##### Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (2020-2021 <br />
+##### Creighton University, Product Project Manager, Omaha, NE (2019-2020) <br />
 
 ## VOLUNTEER EXPERIENCE
-##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (Jan 2012- Dec 2014)**
+##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)**
 
 ## EDUCATION
 ##### CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024) <br />
