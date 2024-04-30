@@ -1,58 +1,33 @@
-# Inventory Count Cognex Camera Vision
+# AGILE PRODUCT - DATA & ANALYTICS
 
-**My role**: PRODUCT PROJECT MANAGER \
-**Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
-**Tools Used**: Clarity, JIRA, Mural, Excel
+**My role**: SCRUM MASTER \
+**Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Agile Training, Presentation, Requirements Gathering, Features/Stories Creation, Prioritization, User testing, Product launch, User Adoption, Product Demo\
+**Tools Used**: JIRA, Mural, Excel
 
-# Problem Definition - Voice of the Customer (VOC)
-![VOC](assets/CognexVOC.png)
+## Problem Definition - Voice of the Customer (VOC)
+Fresh Meats - IT was transitioning from Waterfall to Agile framework and needed agile leader to lead the development efforts fostering continous improvements and product development process that would help teams do their best work. 
 
-Based on the users pain points, with the help from engineering team, led the product discovery phase.
+## Phase 1 - Introduction
+I was offered a role as a Scrum Master within Scaled Agile Framework (SAFe) environment where I led the data & analytics products. I drove the development of data and advanced analytics features/requirements where led 10-15 on and off-shore engineers at a time. 
 
-# Introduction Stage
-Based on discovery phase, Complete Automation Resource (CAR) introduced the vision system. At this stage, Cognex Camera was introduced to the market.
-The internal team with the help from the vendor (CAR), completed through market research and development to assess the product feasibility and potential
-benefits for Dakota City. A Cognex Vision System would read the box label in every location and transmit that back to the Warehouse Management System, this would then be verified against what the system says is truly there. 
-If a discrepancy is found those could be easily investigated by Team Members thus reducing the cost of labor substantially. If needed a picture of each label that the proposed system takes could be achieved for future verification. 
+## Phase 2 - Growth
+I facilitated data & analytics Program Increment (PI) planning sessions and all scrum events i.e. Sprint Planning, Daily Stand Up, Sprint Review, Sprint Restrospective, and Backlog Grooming. These sessions helped team build a robust product roadmaps and key deliverables in JIRA. I started providing agile guidance and knowledge to team members via 1:1 or in team settings covering historical background, principles, manifestos, story pointing techniques, and more. <br />
+#### HIGH LEVEL TRAINING DECK I PREPARED/USED
+![TrainingDeck](assets/CognexHighLevelProductRoadmap.png)
 
-# Growth Stage
-As the vision system is implemented and starts functioning within Dakota City's Material Handling, it will likely experience a period of growth as its usage expands and becomes integrated into the operations. 
-This stage was characterized by increasing product acceptance. As the product may scale in other locations, promotion of the vision system within the organization will be crucial for its adoption. This includes internal marketing efforts to educate employees about its benefits and encourage its use.
-
-# Maturity Stage
-Once the vision system becomes fully integrated into the inventory process and is widely adopted, it enters the maturity stage. During this stage, the technology reaches its peak level of adoption and market saturation. The implementation of the vision system aims to reduce labor costs and improve efficiency in the inventory process. 
-
-# Decline Stage
-Over time, advancements in technology may lead to the decline of the vision system as newer, more efficient technologies 
-emerge. This would signify the decline stage of the product life cycle, where the system becomes outdated and less relevant to the
-needs of the organization. <br />
-Continuous monitoring of the vision system will be required to keep up-to-date with 
-changing technical landscape.
-
-# Highlevel Product Project Roadmap
+#### PI PLANNING SCHEDULE EXAMPLE
 ![Product Roadmap](assets/CognexHighLevelProductRoadmap.png)
 
-# Wireframes & MVP
-![Wireframes](assets/CognexWireframes.png)
+## Phase 3 - RESULTS
+Within 6 months, team ==attained 30% increase in team velocity==. The team maintained ==95% on-time delivery rate== each Sprints and Quarters and reduced features ==time-to-market by 20%== through refining requirements. We were also able to attain 90% team attendance rate for all scrum events.
 
-# Product Launch & Tracking Metrics
-**LAUNCH PLANNING** <br />
-I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, adoption and risk mititation strategy. 
+## Phase 4 - NEXT
+Currently, I wear Agile Champion hat for IT Business Unit and Value Chain Strategy organization.
 
-The following key performance metrics were monitored on an ongoing basis: <br />
-* Data/Picture Collection:  Plant Supervisor, Warehouse Management System, Real-time basis, and Automated
-* Performance Review: Plant Manager, Warehouse Management System, Bi-Weekly, and Use Report
+## Highlevel Agile Data Analytics Roadmap
+![Product Roadmap](assets/CognexHighLevelProductRoadmap.png)
 
-**Process Monitoring** <br />
-* Camera has unobstructed view
-* Camera wirings must not interfere with daily processes
 
-**USER ADOPTION SURVEY** <br />
-![BusinessAdoption](assets/BusinessAdoption1.png)
-![BusinessAdpption](assets/BusinessAdoption2.png)
-
-**METRICS**
-* Optimized efficiency with an IRR of 31.5%
 
 
 
