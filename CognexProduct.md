@@ -52,7 +52,7 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 ![BusinessAdpption](assets/BusinessAdoption2.png)
 
 #### METRICS
-* Optimized efficiency with an IRR of 31.5%
+* Optimized efficiency with an <span style="background-color: yellow;">IRR of 31.5%</span>
 
 
 
