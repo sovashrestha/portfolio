@@ -1,4 +1,4 @@
 .container {
-    max-width: auto; /* Adjust this value as needed */
-    margin: 0 auto; /* Centers the container horizontally */
+    width: 90%; /* 90% of the viewport width */
+    margin: 0 auto; /* Center the container horizontally */
 }
