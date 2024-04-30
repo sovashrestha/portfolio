@@ -29,6 +29,9 @@ needs of the organization. <br />
 Continuous monitoring of the vision system will be required to keep up-to-date with 
 changing technical landscape.
 
+# Highlevel Product Project Roadmap
+![Product Roadmap](assets/CognexHighLevelProductRoadmap.png)
+
 # Wireframes & MVP
 ![Wireframes](assets/CognexWireframes.png)
 
