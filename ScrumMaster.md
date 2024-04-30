@@ -1,4 +1,4 @@
-<div class = "container"> 
+
  # AGILE PRODUCT - DATA, ANALYTICS AND USER EXPERIENCE (UX/UI)
  
  **My role**: SCRUM MASTER \
@@ -31,7 +31,6 @@
  
  ## Highlevel Agile Data Analytics & UX Product Roadmap - Example
  ![Agile Product Roadmap](assets/HighLevelAgileProductRoadmap.png)
-</div>
 
 
 
