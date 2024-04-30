@@ -8,7 +8,7 @@
 Fresh Meats - IT was transitioning from Waterfall to Agile framework and needed agile leader to lead the development efforts fostering continous improvements and product development process that would help teams do their best work. 
 
 ## Phase 1 - Introduction
-I was offered a role as a Scrum Master within Scaled Agile Framework (SAFe) environment where I led the data & analytics products. I drove the development of data analytics and user experience (UX/UI) features/requirements where led 10-15 on and off-shore engineers at a time. 
+I joined Tyson Foods Inc., as a Scrum Master within Scaled Agile Framework (SAFe) environment where I led the data analytics and UX/UI products. I drove the development of data analytics and user experience (UX/UI) features/requirements where led 10-15 on and off-shore engineers at a time. 
 
 ## Phase 2 - Growth
 I facilitated Program Increment (PI) planning sessions and all scrum events i.e. Sprint Planning, Daily Stand Up, Sprint Review, Sprint Restrospective, and Backlog Grooming. These sessions helped team build a robust product roadmaps and key deliverables in JIRA. I started providing agile guidance and knowledge to team members via 1:1 or in team settings covering historical background, principles, manifestos, story pointing techniques, and more. <br />
