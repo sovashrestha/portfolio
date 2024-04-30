@@ -5,7 +5,7 @@
 **Tools Used**: Clarity, JIRA, Mural, Excel
 
 # Problem Definition - Voice of the Customer (VOC)
-![Prototype](assets/Prototype.png)
+![VOC](assets/CognexVOC.png)
 
 Based on the users pain points, with the help from engineering team, led the product discovery phase.
 
@@ -17,15 +17,10 @@ If a discrepancy is found those could be easily investigated by Team Members thu
 
 # Growth Stage
 As the vision system is implemented and starts functioning within Dakota City's Material Handling, it will likely experience a period of growth as its usage expands and becomes integrated into the operations. 
-This stage was characterized by increasing product acceptance. 
-As the product may scale in other locations, promotion of the vision system within the organization will be crucial for its adoption. 
-This includes internal marketing efforts to educate employees about its benefits and encourage its use.
+This stage was characterized by increasing product acceptance. As the product may scale in other locations, promotion of the vision system within the organization will be crucial for its adoption. This includes internal marketing efforts to educate employees about its benefits and encourage its use.
 
 # Maturity Stage
-Once the vision system becomes fully integrated into the inventory process and is widely adopted, 
-it enters the maturity stage. During this stage, the technology reaches its peak level of adoption 
-and market saturation. The implementation of the vision system aims to reduce labor costs and 
-improve efficiency in the inventory process. 
+Once the vision system becomes fully integrated into the inventory process and is widely adopted, it enters the maturity stage. During this stage, the technology reaches its peak level of adoption and market saturation. The implementation of the vision system aims to reduce labor costs and improve efficiency in the inventory process. 
 
 # Decline Stage
 Over time, advancements in technology may lead to the decline of the vision system as newer, more efficient technologies 
@@ -35,11 +30,12 @@ Continuous monitoring of the vision system will be required to keep up-to-date w
 changing technical landscape.
 
 # Wireframes & MVP
-![Wireframes](assets/Responseplan.png)
+![Wireframes](assets/CognexWireframes.png)
 
 # Product Launch & Tracking Metrics
 **Product Launch PLanning**
 I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
+
 The following key performance metrics were monitored on an ongoing basis: <br />
 * Data/Picture Collection:  Plant Supervisor, Warehouse Management System, Real-time basis, and Automated
 * Performance Review: Plant Manager, Warehouse Management System, Bi-Weekly, and Use Report
@@ -48,7 +44,10 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 * Camera has unobstructed view
 * Camera wirings must not interfere with daily processes
 
-**METRICS**
+**Business User Adoption Survey**
+
+
+**METRICS** -TBD
 
 
 
