@@ -5,70 +5,52 @@
 **Tools Used**: Clarity for Project & Resource Management, JIRA for Product roadmapping, Feature prioritization, & Requirements/User stories creation, Mural
 
 # Problem Definition - Voice of the Customer (VOC)
-
+![Prototype](assets/Prototype.png)
 
 Based on the users pain points, with the help from engineering team, led the product discovery phase.
 
 # Introduction Stage
-
 Based on discovery phase, Complete Automation Resource (CAR) introduced the vision system. At this stage, Cognex Camera was introduced to the market.
 The internal team with the help from the vendor (CAR), completed through market research and development to assess the product feasibility and potential
 benefits for Dakota City. A Cognex Vision System would read the box label in every location and transmit that back to the Warehouse Management System, this would then be verified against what the system says is truly there. 
 If a discrepancy is found those could be easily investigated by Team Members thus reducing the cost of labor substantially. If needed a picture of each label that the proposed system takes could be achieved for future verification. 
 
-# Phase 3 - Ideation
+# Growth Stage
+As the vision system is implemented and starts functioning within Dakota City's Material Handling, it will likely experience a period of growth as its usage expands and becomes integrated into the operations. 
+This stage was characterized by increasing product acceptance. 
+As the product may scale in other locations, promotion of the vision system within the organization will be crucial for its adoption. 
+This includes internal marketing efforts to educate employees about its benefits and encourage its use.
 
-Using the research findings, I led the team in a ==Brianstorming session.== 
-![BSS](assets/Brainstormsessions.png)
+# Maturity Stage
+Once the vision system becomes fully integrated into the inventory process and is widely adopted, 
+it enters the maturity stage. During this stage, the technology reaches its peak level of adoption 
+and market saturation. The implementation of the vision system aims to reduce labor costs and 
+improve efficiency in the inventory process. 
 
-We used Fishbone Diagram and 5 Whys 1 How technique to identify root-cause. 
-![Fishbone](assets/RootCauseAnalysis.png)
-![5 Whys](assets/5Why.png)
+# Decline Stage
+Over time, advancements in technology may lead to the decline of the vision system as newer, more efficient technologies 
+emerge. This would signify the decline stage of the product life cycle, where the system becomes outdated and less relevant to the
+needs of the organization. <br />
+Continuous monitoring of the vision system will be required to keep up-to-date with 
+changing technical landscape.
 
-After this, we identified product solutions. 
+# Wireframes & MVP
+![Wireframes](assets/Responseplan.png)
 
-**IDEA** <br />
-Replace the need for manual checks with an automated approach that will show measurements in real time.<br /> We intend to install a Gocator 3D Camera. 
-
-# Phase 4 - Prototypes & Wireframes
-During the development phase used agile prototyping to make quick iterations and gather early user feedbacks. 
-
-**PROTOTYPING APPROACH:**
-* Create various prototypes that addresses the identified pain points by experimenting with product solution
-* Do in person testings to gather quantitative and qualitative data
-* Analyze gathered data to iterate 
-* Improve prototype and compare old baseline performance against new performance
-![Prototype](assets/Prototype.png)
-![Dashboard](assets/IgnitionDashboardPrototype.png)
-
-# Phase 5 - MVP
-After the brainstorming sessions, iterative prototypes, and user feedbacks, I led the team to present the findings (Cost/Benefits) to senior leadership and key stakeholders to move forward with the MVP. I then used MoSCoW method to prioritize key features to include in our MVP given the budget, resource, and time constraints. Once we finalized the product requirements we got ready for the development. 
-![PLC](assets/ProductProjectLifeCycle.png)
-![Gocator](assets/GocatorEmulatorPrototype.png)
-![Dashboard](assets/GocatorDashboard.png)
-
-# Phase 6 - Product Launch, Growth Opportunities, & Tracking Metrics
-**PRODUCT LAUNCH PLANNING**
+# Product Launch & Tracking Metrics
+**Product Launch PLanning**
 I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
 The following key performance metrics were monitored on an ongoing basis: <br />
-* Data Collection:  Plant Supervisor, PlantView Application, Real-time basis, and Automated
-* Performance Review: Plant Manager, PlantView Application, Weekly, and Use Report
+* Data/Picture Collection:  Plant Supervisor, Warehouse Management System, Real-time basis, and Automated
+* Performance Review: Plant Manager, Warehouse Management System, Bi-Weekly, and Use Report
 
-***Process Monitoring***
+**Process Monitoring**
 * Camera has unobstructed view
 * Camera wirings must not interfere with daily processes
-![ResponsePlan](assets/Responseplan.png)
-
-**GROWTH OPPORTUNITIES**
-![GO](assets/GrowthOpportunities.png)
 
 **METRICS**
-![GCM](assets/GocatorCurrentMetrics.png)
 
-# Retrospective
-Post-launch monitoring and analysis are key for continuous learning and analyze if the launch objectives are being met. Here are some points from lessons learned:
-* The development took longer than estimated due to delay in logistics
-* Team were not aware of recalibration of Gocator until late in the project
+
 
 
 
