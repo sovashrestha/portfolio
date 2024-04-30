@@ -16,7 +16,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 ## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
 ##### Tyson Foods Inc., Scrum Master, Springdale, AR (2021-2022) <br />
-##### Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (2020-2021 <br />
+##### Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (2020-2021) <br />
 ##### Creighton University, Product Project Manager, Omaha, NE (2019-2020) <br />
 
 ## VOLUNTEER EXPERIENCE
