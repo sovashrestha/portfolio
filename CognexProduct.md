@@ -1,7 +1,7 @@
 # Inventory Count Cognex Camera Vision
 
 **My role**: PRODUCT PROJECT MANAGER \
-**Skills**: Agile methodologies, Stakeholder Management, Resource Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
+**Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
 **Tools Used**: Clarity, JIRA, Mural, Excel
 
 # Problem Definition - Voice of the Customer (VOC)
