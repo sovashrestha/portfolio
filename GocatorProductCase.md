@@ -38,7 +38,7 @@ Replace the need for manual checks with an automated approach that will show mea
 # Phase 4 - Prototypes & Wireframes
 During the development phase used agile prototyping to make quick iterations and gather early user feedbacks. 
 
-**PROTOTYPING APPROACH:**
+#### PROTOTYPING APPROACH
 * Create various prototypes that addresses the identified pain points by experimenting with product solution
 * Do in person testings to gather quantitative and qualitative data
 * Analyze gathered data to iterate 
@@ -53,26 +53,26 @@ After the brainstorming sessions, iterative prototypes, and user feedbacks, I le
 ![Dashboard](assets/GocatorDashboard.png)
 
 # Phase 6 - Product Launch, Product Growth, & Tracking Metrics
-**Launch Planning** <br />
+#### LAUNCH PLANNING <br />
 I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
 The following key performance metrics were monitored on an ongoing basis: <br />
 * Data Collection:  Plant Supervisor, PlantView Application, Real-time basis, and Automated
 * Performance Review: Plant Manager, PlantView Application, Weekly, and Use Report
 
-***Process Monitoring***
+#### PROCESS MONITORING
 * Camera has unobstructed view
 * Camera wirings must not interfere with daily processes
 ![ResponsePlan](assets/Responseplan.png)
 
-**Product Growth**
+#### PRODUCT GROWTH
 ![GO](assets/GrowthOpportunities.png)
 
-**Metrics**
+#### METRICS
 ![GCM](assets/GocatorCurrentMetrics.png)
 
-- Achieved 98.9% or more defect-free rate with potential saving of more than $1 million
+- Achieved ==98.9% or more defect-free rate== with potential ==saving of more than $1 million==
 
-# Retrospective
+#### RETROSPECTIVES
 Post-launch monitoring and analysis are key for continuous learning and analyze if the launch objectives are being met. Here are some points from lessons learned:
 * The development took longer than estimated due to delay in logistics
 * Team were not aware of recalibration of Gocator until late in the project
