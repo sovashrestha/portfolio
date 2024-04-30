@@ -1,4 +1,4 @@
 .container {
-    max-width: 1200px; /* Adjust this value as needed */
+    max-width: auto; /* Adjust this value as needed */
     margin: 0 auto; /* Centers the container horizontally */
 }
