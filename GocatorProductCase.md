@@ -1,4 +1,4 @@
-# Gocator Computer Vision
+# GOCATOR COMPUTER VISION - AUTOMATED MEAT THICKNESS MEASUREMENT
 
 **My role**: PRODUCT PROJECT MANAGER \
 **Skills**: Agile methodologies, Stakeholder Management, Resource Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
