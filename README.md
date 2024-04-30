@@ -8,7 +8,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 1. [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](GocatorProductCase.md?timestamp=123456)
 
 # Check out previous projects
-1. [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProductCase.md?timestamp=123456)
+1. [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](CognexProduct.md?timestamp=123456)
 
 # PROFESSIONAL EXPRERIENCE
 **Tyson Foods Inc., Manager Project and Product, Springdale, AR (Jan 2023 - Present)** <br />
