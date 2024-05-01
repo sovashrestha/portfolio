@@ -1,7 +1,7 @@
 # Software-as-a-Service (SaaS) Product
  
-**My role**: .NET Software Developer & Scrum Master\ 
-**Skills**: Agile Methodologies, Stakeholder Management, Demo Presentation, Requirements, Stories creation, Prioritization, User testing\
+**My role**: .NET Software Developer & Scrum Master \
+**Skills**: Agile Methodologies, Stakeholder Management, Demo Presentation, Requirements, Stories creation, Prioritization, User testing \
 **Tools Used**: .NET, MS SQL, Telerik packages, JIRA, Excel
  
 ## Web Reporting Product
