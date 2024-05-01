@@ -32,7 +32,8 @@ I led the thorough testing across different devices, browsers, and operating sys
 The revamped web pages and apps had updated UX/UI design consistent with modern design trends and guidelines. The users were able experience enhanced navigation, user flows, reponsiveness, and reduced page load times. 
 ![Product Launch](assets/CreightonWebPage.png)
 
-**The best feature launched: Program Search Tab with filter options.**
+**Best Feature: Program Search Tab with filter options**
+
 ![Product Launch](assets/CUProgramSearchKeywords.png)
 
 In order to monitor user feedback and performance metrics, we rolled out the changes gradually and started with a beta release. 
