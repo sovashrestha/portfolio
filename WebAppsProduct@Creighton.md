@@ -10,7 +10,9 @@
   
 #### Scope and Prioritization
 I led team of analysts to conduct a comprehensive audit of existing web pages and mobile apps to identify areas of improvement. We also conducted user interviews and surveys to identify users pain points and preferences.The team also analyzed user feedback from support tickets and other reviews. 
+
 ![User Interviews](assets/CUWebAppUserInterview.png)
+
 ![User Surveys](assets/CUWebAppSurvey.png)
 
 Some of the pain points where users ranked higher were:
