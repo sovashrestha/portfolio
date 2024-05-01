@@ -13,7 +13,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 * ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md)
 * ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md)
 * ### [Software-as-a-Service (Saas) Products at Mid-America Co.](SaaSproduct@MACC.md)
-* ### [WebApps Product at Creighton](WebAppsProduct@Creighton.md)
+* ### [Web Application Product at Creighton](WebAppsProduct@Creighton.md)
 * ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md)
 
 ## PROFESSIONAL EXPRERIENCE
