@@ -1,6 +1,6 @@
 # COGNEX CAMERA VISION - AUTOMATED INVENTORY COUNT
 
-**My role**: PRODUCT PROJECT MANAGER \
+**My role**: MANAGER - PRODUCT & PROJECT \
 **Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Vendor Management, User Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
 **Tools Used**: Clarity, JIRA, Mural, Excel
 
