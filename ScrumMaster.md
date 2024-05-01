@@ -1,7 +1,7 @@
 # AGILE PRODUCT - DATA, ANALYTICS AND USER EXPERIENCE (UX/UI)
  
-**My role**: SCRUM MASTER \ 
-**Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Agile Training, Presentation, Requirements Gathering, Features/Stories Creation, Prioritization, User testing, Product launch, User Adoption, Product Demo\
+**My role**: SCRUM MASTER <br />
+**Skills**: Agile Methodologies, Stakeholder Management, Resource Management, Agile Training, Presentation, Requirements Gathering, Features/Stories Creation, Prioritization, User testing, Product launch, User Adoption, Product Demo <br />
 **Tools Used**: JIRA, Mural, Excel
  
 ## Problem Definition
