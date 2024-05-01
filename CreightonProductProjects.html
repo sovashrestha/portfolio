@@ -1,81 +1,85 @@
-<div class="container"> </div>
-# GOCATOR COMPUTER VISION - AUTOMATED MEAT THICKNESS MEASUREMENT
+<div class="container">
+    <h1>GOCATOR COMPUTER VISION - AUTOMATED MEAT THICKNESS MEASUREMENT</h1>
+    
+    <p><strong>My role</strong>: PRODUCT PROJECT MANAGER</p>
+    <p><strong>Skills</strong>: Agile methodologies, Stakeholder Management, Resource Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption</p>
+    <p><strong>Tools Used</strong>: Clarity, JIRA, Mural, Notion</p>
 
-**My role**: PRODUCT PROJECT MANAGER \
-**Skills**: Agile methodologies, Stakeholder Management, Resource Management, User Research and Interviews, Solution Design, Prioritization, Wireframing and prototyping, User testing, Product launch, User Adoption \
-**Tools Used**: Clarity, JIRA, Mural, Notion
+    <h2>Phase 1 - Problem Definition</h2>
+    <p>Today's process of taking sample thickness measurement is inconsistent and fraught with errors. The data from the inconsistent measurements every hour are sued to adjust the meat thickness press which leads to errors. Sometimes machine adjustment are not needed and business ends up with customer complaints as well as worst case scenario - product recall, since the meats are too thick which leads to under cooked or the meats are too thin which leads to over cooked, given the time and temperature.</p>
 
-## Phase 1 - Problem Definition
-Today's process of taking sample thickness measurement is inconsistent and fraught with errors. The data from the inconsistent measurements every hour are sued to adjust the meat thickness press which leads to errors. Sometimes machine adjustment are not needed and business ends up with customer complaints as well as worst case scenario - product recall, since the meats are too thick which leads to under cooked or the meats are too thin which leads to over cooked, given the time and temperature. 
+    <p>Manually, calipers are used to measure the thickness of the chicken filet. Example of a target thickness can range from 9-11mm. There is a high degree of variability that comes with measuring the filet. It is possible to end up with 10 different measurements taken by 10 different people.</p>
 
-Manually, calipers are used to measure the thickness of the chicken filet. Example of a target thickness can range from 9-11mm. There is a high degree of variability that comes with measuring the filet. It is possible to end up with 10 different measurements taken by 10 different people. 
+    <h3>OBJECTIVE</h3>
+    <p>Based on the users pain points, I led the product discovery phase. At first we wanted to understand the Baseline Performance, so in order to do so, the team frequently visited the production plant and interviewed multiple stakeholders to gather requirements, data and feedback. When we analyzed the initial-baseline data, we came up the following result:</p>
+    <img src="assets/BaselineHistogram.png" alt="Baseline Histogram">
+    <img src="assets/BaselinePerformance.png" alt="Baseline Performance">
 
-#### OBJECTIVE <br />
-Based on the users pain points, I led the product discovery phase. At first we wanted to understand the Baseline Performance, so in order to do so, the team frequently visited the production plant and interviewed multiple stakeholders to gather requirements, data and feedback. When we analyzed the initial-baseline data, we came up the following result:
-![Baseline Histogram](assets/BaselineHistogram.png)
-![Baseline Performance](assets/BaselinePerformance.png)
+    <p>Next, we also needed to validate product hypothesis.</p>
 
-Next, we also needed to validate product hypothesis. 
+    <h2>Phase 2 - User & Data Research</h2>
+    <p>During the user interview, we found out user experience could be enhanced as team members were manually logging in measurements data in excel sheets, a very tedious tasks for team members. <br /> We also conducted Hypothesis Testing Analysis using baseline data to determine whether the sample mean measurement is significantly greater than 12 inch (thickness). For this, we used t-Test.</p>
+    <img src="assets/HypothesisTestingAnalysis.png" alt="HTA">
+    <img src="assets/T-test.png" alt="T-test">
 
-## Phase 2 - User & Data Research
-During the user interview, we found out user experience could be enhanced as team members were manually logging in measurements data in excel sheets, a very tedious tasks for team members. <br /> We also conducted Hypothesis Testing Analysis using baseline data to determine whether the sample mean measurement is significantly greater than 12 inch (thickness). For this, we used t-Test. 
-![HTA](assets/HypothesisTestingAnalysis.png)
-![Ttest](assets/T-test.png)
+    <h2>Phase 3 - Ideation</h2>
+    <p>Using the research findings, I led the team in a <mark>Brianstorming session.</mark></p>
+    <img src="assets/Brainstormsessions.png" alt="BSS">
 
-## Phase 3 - Ideation
+    <p>We used Fishbone Diagram and 5 Whys 1 How technique to identify root-cause.</p>
+    <img src="assets/RootCauseAnalysis.png" alt="Fishbone">
+    <img src="assets/5Why.png" alt="5 Whys">
 
-Using the research findings, I led the team in a ==Brianstorming session.== 
-![BSS](assets/Brainstormsessions.png)
+    <p>After this, we identified product solutions.</p>
 
-We used Fishbone Diagram and 5 Whys 1 How technique to identify root-cause. 
-![Fishbone](assets/RootCauseAnalysis.png)
-![5 Whys](assets/5Why.png)
+    <h3>IDEA</h3>
+    <p>Replace the need for manual checks with an automated approach that will show measurements in real time.<br /> We intend to install a Gocator 3D Camera.</p>
 
-After this, we identified product solutions. 
+    <h2>Phase 4 - Prototypes & Wireframes</h2>
+    <p>During the development phase used agile prototyping to make quick iterations and gather early user feedbacks.</p>
 
-#### IDEA <br />
-Replace the need for manual checks with an automated approach that will show measurements in real time.<br /> We intend to install a Gocator 3D Camera. 
+    <h3>PROTOTYPING APPROACH</h3>
+    <ul>
+        <li>Create various prototypes that addresses the identified pain points by experimenting with product solution</li>
+        <li>Do in person testings to gather quantitative and qualitative data</li>
+        <li>Analyze gathered data to iterate</li>
+        <li>Improve prototype and compare old baseline performance against new performance</li>
+    </ul>
+    <img src="assets/Prototype.png" alt="Prototype">
+    <img src="assets/IgnitionDashboardPrototype.png" alt="Dashboard">
 
-# Phase 4 - Prototypes & Wireframes
-During the development phase used agile prototyping to make quick iterations and gather early user feedbacks. 
+    <h2>Phase 5 - MVP</h2>
+    <p>After the brainstorming sessions, iterative prototypes, and user feedbacks, I led the team to present the findings (Cost/Benefits) to senior leadership and key stakeholders to move forward with the MVP. I then used MoSCoW method to prioritize key features to include in our MVP given the budget, resource, and time constraints. Once we finalized the product requirements we got ready for the development.</p>
+    <img src="assets/ProductProjectLifeCycle.png" alt="PLC">
+    <img src="assets/GocatorEmulatorPrototype.png" alt="Gocator">
+    <img src="assets/GocatorDashboard.png" alt="Dashboard">
 
-#### PROTOTYPING APPROACH
-* Create various prototypes that addresses the identified pain points by experimenting with product solution
-* Do in person testings to gather quantitative and qualitative data
-* Analyze gathered data to iterate 
-* Improve prototype and compare old baseline performance against new performance
-![Prototype](assets/Prototype.png)
-![Dashboard](assets/IgnitionDashboardPrototype.png)
+    <h2>Phase 6 - Product Launch, Product Growth, & Tracking Metrics</h2>
+    <h3>LAUNCH PLANNING</h3>
+    <p>I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mitigation strategy.</p>
+    <p>The following key performance metrics were monitored on an ongoing basis: <br />
+    * Data Collection:  Plant Supervisor, PlantView Application, Real-time basis, and Automated <br />
+    * Performance Review: Plant Manager, PlantView Application, Weekly, and Use Report</p>
 
-## Phase 5 - MVP
-After the brainstorming sessions, iterative prototypes, and user feedbacks, I led the team to present the findings (Cost/Benefits) to senior leadership and key stakeholders to move forward with the MVP. I then used MoSCoW method to prioritize key features to include in our MVP given the budget, resource, and time constraints. Once we finalized the product requirements we got ready for the development. 
-![PLC](assets/ProductProjectLifeCycle.png)
-![Gocator](assets/GocatorEmulatorPrototype.png)
-![Dashboard](assets/GocatorDashboard.png)
+    <h3>PROCESS MONITORING</h3>
+    <ul>
+        <li>Camera has unobstructed view</li>
+        <li>Camera wirings must not interfere with daily processes</li>
+    </ul>
+    <img src="assets/Responseplan.png" alt="ResponsePlan">
 
-## Phase 6 - Product Launch, Product Growth, & Tracking Metrics
-#### LAUNCH PLANNING <br />
-I created a through launch plan that included key stakeholders, internal marketing strategy, product monitoring, and risk mititation strategy. 
-The following key performance metrics were monitored on an ongoing basis: <br />
-* Data Collection:  Plant Supervisor, PlantView Application, Real-time basis, and Automated
-* Performance Review: Plant Manager, PlantView Application, Weekly, and Use Report
+    <h3>PRODUCT GROWTH</h3>
+    <img src="assets/GrowthOpportunities.png" alt="GO">
 
-#### PROCESS MONITORING
-* Camera has unobstructed view
-* Camera wirings must not interfere with daily processes
-![ResponsePlan](assets/Responseplan.png)
+    <h3>Metrics</h3>
+    <img src="assets/GocatorCurrentMetrics.png" alt="GCM">
 
-#### PRODUCT GROWTH
-![GO](assets/GrowthOpportunities.png)
+    <p>Achieved <mark>98.9% or more defect-free rate</mark> with potential <mark>saving of more than $1 million</mark></p>
 
-#### METRICS
-![GCM](assets/GocatorCurrentMetrics.png)
-
-- Achieved ==98.9% or more defect-free rate== with potential ==saving of more than $1 million==
-
-#### RETROSPECTIVES
-Post-launch monitoring and analysis are key for continuous learning and analyze if the launch objectives are being met. Here are some points from lessons learned:
-* The development took longer than estimated due to delay in logistics
-* Team were not aware of recalibration of Gocator until late in the project
+    <h3>RETROSPECTIVES</h3>
+    <p>Post-launch monitoring and analysis are key for continuous learning and analyze if the launch objectives are being met. Here are some points from lessons learned:</p>
+    <ul>
+        <li>The development took longer than estimated due to delay in logistics</li>
+        <li>Team were not aware of recalibration of Gocator until late in the project</li>
+    </ul>
 </div>
- 
