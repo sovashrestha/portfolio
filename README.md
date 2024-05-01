@@ -11,7 +11,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 
 ## Check out my previous product projects
 * ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md)
-* ### [Agile Data Analytics & UX Products at Tyson Foods](ScrumMaster.md)
+* ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md)
 * ### [Software-as-a-Service (Saas) Products at Mid-America Co.](SoftwareDevelopmentWork.md)
 
 ## PROFESSIONAL EXPRERIENCE
