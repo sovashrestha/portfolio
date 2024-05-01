@@ -42,7 +42,7 @@ generate different reports, and interpret data insights. The users were also pro
 I gathered users feedback and satifaction scores to guauge the effectiveness and identifies areas for improvement or optimization.
 
 ## RESULTS
-By implementing this MVP, we not only enhanced data visualization capabities but users were able to access to key insights 80% faster - i.e. 
+By implementing this MVP, we not only enhanced data visualization capabilities but users were able to access to key insights 80% faster - i.e. 
 Imagine you have a magic book that tells you all the secrets about your favorite game. Before, you had to wait a long time to find the secrets you wanted. 
 But now, with some magic changes, you can find those secrets much faster. Instead of taking a whole hour, it only takes 12 minutes! So, you can get to the 
 fun parts of the game much quicker and have more time to play. 
