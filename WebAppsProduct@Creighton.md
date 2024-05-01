@@ -37,3 +37,4 @@ The revamped web pages and apps had updated UX/UI design consistent with modern 
 ![Product Launch](assets/CUProgramSearchKeywords.png)
 
 In order to monitor user feedback and performance metrics, we rolled out the changes gradually and started with a beta release. 
+By revamping the web pages with enhanced features and user experience, the **user satisfaction scores soared by 25%.** 
