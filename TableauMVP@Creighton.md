@@ -10,7 +10,7 @@ The goal was to streamline reporting processes along with real-time key insights
 The objective was to reduce time to key insights and enhance data visualization capabilities.
 
 #### User Interviews & Research
-I conducted a through analysis of user needs and pain points; interviewed with senior leadership and other potential users to understand their report needs,
+I conducted a through analysis of user needs and pain points; **interviewed with senior leadership and other potential users** to understand their report needs,
 pain points, and preferences. Also gathered information on the types of data they rely on, their preferred data visualization formats, and their current challenges
 in accessing insights or data. I utilized resources such as feedback forms, surveys, previously used analytical tools to gather quantitative and qualitative data also leveraged other internal data sources. 
 
@@ -18,13 +18,9 @@ Based on the research findings, used **MoSCoW technique to prioritize** the feat
 
 ## PRODUCT DEVELOPMENT LIFECYCLE
 #### MVP Development
-I led 5 engineers to develop and implement Tableau Cloud-MVP. Followed agile development methodologies (Scrum), to iteratively build and refine the product.
-I continously gathered feedback form users and stakeholders via demo sessions to infrom product iterations.
-
-I also conducted usability and User Acceptance Testing (UAT) to validate the MVP against user requirements. I gathered feedback from end users to incorporate necessary
-changes to improve the user experience and design functionality.
-
-I coordinated with IT operations teams to ensure smooth deployement process of the MVP on Tableau Cloud infrastructure. 
+I **led 5 engineers to develop and implement Tableau Cloud-MVP**. Followed agile development methodologies (Scrum), to iteratively build and refine the product.
+I continously gathered feedback form users and stakeholders via demo sessions to infrom product iterations. I also **conducted usability and User Acceptance Testing (UAT)** to validate the MVP against user requirements. I gathered feedback from end users to incorporate necessary
+changes to improve the user experience and design functionality. I **coordinated with IT operations teams** to ensure smooth deployement process of the MVP on Tableau Cloud infrastructure. 
 
 #### Key Features
 * Real-time data visualization dashboards
@@ -35,11 +31,10 @@ I coordinated with IT operations teams to ensure smooth deployement process of t
 * Prebuild templates for data visualization
   
 ## TRAINING AND ADOPTION
-I conducted training sessions for senior leadership and other users to familiarize them with the Tableau Cloud. With the help from Tableau Representative,
-I customized training materials based on user roles and responsibilities. Also provided hands-on workshops to teach users on how to create and customize dashboards,
-generate different reports, and interpret data insights. The users were also provided on going support resources such as user guides and FAQs. 
+I **conducted training sessions for senior leadership and other users** to familiarize them with the Tableau Cloud. With the help from Tableau Representative,
+I **customized training materials** based on user roles and responsibilities. Also **provided hands-on workshops** to teach users on how to create and customize dashboards, generate different reports, and interpret data insights. The users were also provided on going support resources such as user guides and FAQs. 
 
-I gathered users feedback and satifaction scores to guauge the effectiveness and identifies areas for improvement or optimization.
+I **gathered users feedback and satifaction scores** to guauge the effectiveness and identifies areas for improvement or optimization.
 
 ## RESULTS
 By implementing this MVP, we not only **enhanced data visualization capabilities but users were able to access to key insights 80% faster** - i.e. 
