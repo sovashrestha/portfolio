@@ -21,7 +21,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 ##### Creighton University, Product Project Manager, Omaha, NE (2019-2020) <br />
 
 ## VOLUNTEER EXPERIENCE
-##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)**
+##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)
 
 ## EDUCATION
 ##### CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024) <br />
