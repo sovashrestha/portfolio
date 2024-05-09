@@ -18,12 +18,20 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 
 ## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
+Launched Gocator computer vision and Cognex camera vision (MVPs), awarded Lean Six Sigma Green Belt Certificate
+
 ##### Tyson Foods Inc., Scrum Master, Springdale, AR (2021-2022) <br />
+Attained 30% increase in team velocity over 6 months, maintained 95% on time delivery rate, reduced features time-to-market by 20%, attained 90% team attendance rate for scrum events, awarded SAFe-Scrum Professional Certificate
+
 ##### Mid-America Co.,  Software Developer & Scrum Master, Omaha, NE (2020-2021) <br />
+Launched new Software as a Service (SaaS) features and attained 100% team attendance rate for scrum events
+
 ##### Creighton University, Product Project Manager, Omaha, NE (2019-2020) <br />
+Revamped 100+ web pages and mobile apps, user satisfaction scores soared by 25%, launched Tableau SaaS solution
 
 ## VOLUNTEER EXPERIENCE
 ##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)
+Coordinated people, transportation, and supplies for toilet construction activities in remote villages of Nepal
 
 ## EDUCATION
 ##### CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024) <br />
