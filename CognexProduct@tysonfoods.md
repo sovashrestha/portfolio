@@ -53,15 +53,3 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 
 #### RESULTS
 * Optimized efficiency with an <span style="background-color: yellow;">IRR of 31.5%</span>
-
-
-
-
-
-
-
-
-
-
-
- 
