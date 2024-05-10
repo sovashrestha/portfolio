@@ -70,7 +70,7 @@ The following key performance metrics were monitored on an ongoing basis: <br />
 #### METRICS
 ![GCM](assets/GocatorCurrentMetrics.png)
 
-- Achieved **98.9% or more defect-free rate** with potential **saving of more than $1 million**
+- Achieved **98.9% or more defect-free rate** with potential **saving of more than $3 million**
 
 #### RETROSPECTIVES
 Post-launch monitoring and analysis are key for continuous learning and analyze if the launch objectives are being met. Here are some points from lessons learned:
