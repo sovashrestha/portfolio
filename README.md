@@ -7,7 +7,7 @@ As a people-first agile product leader, I excel in driving product development a
 With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
 
 ## What I am currently working on
-* ### [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexProduct@tysonfoods.md)
+* ### [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexCameraVision@tysonfoods.md)
 
 ## Check out my previous product projects
 * ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md)
