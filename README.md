@@ -1,5 +1,5 @@
 <h1>Hi, I'm Shikhar!</h1>
-<h3><a href="https://www.linkedin.com/in/shikharstha/">Product & Project Management Professional</a></h3>
+<h3><a href="https://www.linkedin.com/in/shikharstha/">Product, Project/Program/Portfolio Management Professional</a></h3>
 <h3><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137295985310924800">Notes on building agile products and team </a></h3>
 
 As a people-first agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table. I believe in fostering continous improvements and product development processses that help teams do best work. 
@@ -16,7 +16,7 @@ With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, 
 * ### [Web Application Product at Creighton](WebAppsProduct@Creighton.md)
 * ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md)
 
-## PROFESSIONAL EXPRERIENCE
+<!---## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
 Launched Gocator computer vision and Cognex camera vision (MVPs), awarded Lean Six Sigma Green Belt Certificate
 
@@ -31,7 +31,7 @@ Revamped 100+ web pages and mobile apps, user satisfaction scores soared by 25%,
 
 ## VOLUNTEER EXPERIENCE
 ##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)
-Coordinated people, transportation, and supplies for toilet construction activities in remote villages of Nepal
+Coordinated people, transportation, and supplies for toilet construction activities in remote villages of Nepal --->
 
 ## EDUCATION
 ##### CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024) <br />
